@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @shivamsky8
 - 👀 I’m interested in frontend
 - 💞️ I’m looking to collaborate on challenging tasks
-- 📫 How to reach me shivamniet018@gmail.com
+- 📫 How to reach me shivamniet01@gmail.com
